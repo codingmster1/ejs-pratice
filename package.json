@@ -1,0 +1,22 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
+    "deep": "^0.0.2",
+    "ejs": "^3.1.10",
+    "email-validator": "^2.0.4",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.9"
+  }
+}
